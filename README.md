@@ -6,6 +6,8 @@
 ![Score](https://img.shields.io/badge/mAP50-1.000-brightgreen)
 ![Status](https://img.shields.io/badge/Hackathon-Winner-gold)
 
+## 🏆 Live Leaderboard: [Solidworks AI Hackathon Leaderboard](https://www.kaggle.com/competitions/solidworks-ai-hackathon/leaderboard)
+
 **A computer vision model for industrial part detection (Bolts, Nuts, Washers, Locating Pins) that achieved a perfect 1.000 Precision and Recall score through advanced Cyclic Training and Test-Time Augmentation.**
 
 ---
